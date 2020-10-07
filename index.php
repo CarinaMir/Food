@@ -46,6 +46,7 @@
         padding: 10px 20px 20px 20px;
     }
 
+
     samp {
         font-size: 1.3em;
     }
